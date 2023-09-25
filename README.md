@@ -6,4 +6,4 @@ pertama-tama kita masukan nama,nim dan password kemudian memasukan angka untuk b
 
 ## Screenshots
 
-![App Screenshot](./image/ss.jpg.png) 
+https://github.com/aidhilsaputraa/poostest-Aidhil-Saputra/blob/main/Cuplikan%20layar%202023-09-24%20190405.png
