@@ -6,4 +6,4 @@ pertama-tama kita masukan nama,nim dan password kemudian memasukan angka untuk b
 
 ## Screenshots
 
-![App Screenshot](./image/ss.jpg.png) 
+https://Cuplikan layar 2023-09-24 190405.png)
